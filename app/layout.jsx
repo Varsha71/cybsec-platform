@@ -26,7 +26,6 @@ export default function RootLayout({ children }) {
                 <link rel="icon" href="my-favicon-32x32.png" type="image/x-icon"></link>
             </head>
             <body className={`${poppins.className} relative`}>
-<<<<<<< HEAD
 {/*                 <nav className='fixed top-0 left-0 w-full text-white z-30'> */}
 {/*                                     <div className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8'> */}
 {/*                                         <div className='flex items-center justify-center h-16'> */}
@@ -44,8 +43,6 @@ export default function RootLayout({ children }) {
 {/*                                         </div> */}
 {/*                                     </div> */}
 {/*                 </nav> */}
-=======
->>>>>>> 9abe1d03fb4d638371bbe53759b3b6a05f26f11c
                 <div className='bg-grid'>
                     <div className='gradient' />
                 </div>
